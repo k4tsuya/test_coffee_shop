@@ -1,4 +1,7 @@
 def greeting():
+
+    print("hello everybody!")
+
     for i in range(5):
         print("hello johnson!")
 
