@@ -1,5 +1,6 @@
 def greeting():
-    print("hello johnson!")
+    for i in range(5):
+        print("hello johnson!")
 
 
 def main():
